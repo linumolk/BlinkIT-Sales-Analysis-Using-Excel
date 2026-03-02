@@ -14,7 +14,7 @@ The project covers the complete analytics workflow:
 
 ---
 
-## 🎯 Business Objectives
+## 🎯 Objectives
 
 - Analyze overall sales performance
 - Compare sales across item types and outlet types
@@ -45,11 +45,10 @@ The dataset contains 8.5k grocery sales data with the following attributes:
 ## 🛠 Tools & Techniques Used
 
 ### 🔹 Microsoft Excel Features
-- Data Cleaning (Remove Duplicates, Handling Missing Values, Data Formatting)
+- Data Cleaning (Remove Duplicates, Handling Missing Values, Removed Unwanted Columns)
 - Pivot Tables
 - Pivot Charts
 - Slicers (Fat Content, Outlet Type, Tier)
-- Conditional Formatting
 - KPI Cards using formulas
 - Dashboard Layout & Design
 
@@ -63,6 +62,7 @@ The dataset contains 8.5k grocery sales data with the following attributes:
 - Standardized categorical variables
 - Corrected inconsistent data formats
 - Verified data types
+- Removed Unwanted Columns
 
 
 ### 2️⃣ Data Analysis (Pivot Tables)
