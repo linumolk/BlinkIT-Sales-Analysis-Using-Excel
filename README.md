@@ -100,7 +100,7 @@ An interactive dashboard was built to summarize key business metrics.
 
 ---
 
-## 📊 Key Insights
+## 🔎Key Insights
 
 - Low Fat products contributed approximately 65% of total sales.
 - Supermarket Type 1 generated the highest revenue (~65% share).
