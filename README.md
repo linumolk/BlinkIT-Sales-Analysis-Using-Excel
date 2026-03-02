@@ -94,6 +94,10 @@ An interactive dashboard was built to summarize key business metrics.
 - Outlet Type
 - Outlet Tier
 
+### 📊 Dashboard Preview:
+
+![Dashboard Screenshot](BlinkIT-Sales-Dashboard.png)
+
 ---
 
 ## 📊 Key Insights
