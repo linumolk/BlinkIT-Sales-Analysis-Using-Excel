@@ -29,14 +29,16 @@ The project covers the complete analytics workflow:
 
 The dataset contains 8.5k grocery sales data with the following attributes:
 
-- Item Type
 - Fat Content (Low Fat / Regular)
-- Outlet Type
-- Outlet Tier
+- Item ID
+- Item Type
 - Year of Establishment
+- Oytlet ID
+- Outlet Location Type
+- Outlet Size
+- Outlet Type
 - Sales Amount
 - Item Rating
-- Number of Items Sold
 
 ---
 
